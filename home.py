@@ -1,5 +1,5 @@
 from tkinter import*
-from PIL import Image,ImageTk
+from PIL import Image,ImageT
 from employee import employeeClass
 class Inventory:
     def __init__(self,root):
